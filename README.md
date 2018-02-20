@@ -1,8 +1,1 @@
-### Web Platform News release schedule
-
-| When | What |
-| --- | --- |
-| Monday | special weekly issue published here on this repo |
-| Tuesday through Friday | regular issues published on https://webplatform.news (in closed beta for supporters) |
-
-Note: All content and functionality on https://webplatformdaily.org, including the [search feature](https://github.com/simevidas/webplatformdaily-site/issues/101), is now available for free.
+This is the archive for the weekly issues of Web Platform News, a free newsletter written by Šime Vidas. Go to https://webplatform.news and subscribe via the form at the top of the page.
